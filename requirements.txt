@@ -1,0 +1,7 @@
+opencv-contrib-python==4.5.1.48
+opencv-python==4.5.1.48
+tensorflow==2.3.1
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+numpy==1.18.5
+Pillow==7.2.0

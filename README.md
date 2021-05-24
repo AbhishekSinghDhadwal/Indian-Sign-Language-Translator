@@ -8,7 +8,7 @@ This repository consists of the code utilized for creation of an Indian Sign Lan
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/39513876/118981340-dcc48900-b997-11eb-98d8-686dd402f544.png" width="500">
+  <img src="https://user-images.githubusercontent.com/39513876/118981340-dcc48900-b997-11eb-98d8-686dd402f544.png" width="650">
 </p>
 
 <div align="center"> <i>Flow Diagram of the project implementation</i> </div>

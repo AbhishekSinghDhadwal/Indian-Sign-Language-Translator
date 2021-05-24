@@ -57,12 +57,12 @@ Contains the [scripts](https://github.com/AbhishekSinghDhadwal/Indian-Sign-Langu
 Consists of the [notebook](https://github.com/AbhishekSinghDhadwal/Indian-Sign-Language-Translator/tree/main/Model_Training) used in order to train and save the SqueezeNet model used for the project. Originally made in Colab.
 
 ### Dependencies
-- opencv
-- tensorflow
+- OpenCV
+- Tensorflow
 - Keras
-- numpy
+- Numpy
 - Pillow
-- imageAI
+- ImageAI
 
 The specific versions are mentioned in requirements.txt
 

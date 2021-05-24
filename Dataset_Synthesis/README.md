@@ -3,9 +3,16 @@
 ### Usage Instructions :
 
 1. Clone the repository and download **cross-hands.weights** from this [link](https://github.com/cansik/yolo-hand-detection/releases/download/pretrained/cross-hands.weights) and place it in the "yolo-models" folder.
-2. Store the input (dataset) and output (modded_dataset) folders within this folder. 
+2. Store the input (dataset) and output (modded_dataset) folders within the repository folder. 
 3. Run ```python dataset_synthesis.py``` on your terminal, the application will start. After execution, the resultant ouptut will be stored in the corresponding output folder.
 4. Run ```python dataset_cleaning.py modded_dataset``` on your terminal, where modded_dataset is the input folder to this script. The application will then start, and after execution, the resultant ouptut will be stored in a newly created pickles folder containing information regarding the images.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39513876/119351798-85d3f200-bcbe-11eb-9f70-699c15256185.png" width="500">
+</p>
+<div align="center"> <i>Sample modifications</i> </div>
+</n>
+
 
 ### How it works :
 

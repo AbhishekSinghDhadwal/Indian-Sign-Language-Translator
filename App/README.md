@@ -13,7 +13,7 @@
 - Hand Detection
 - Image Resizing
 - Skin Segmentation 
-5. **Result Phase** : The preprocessed images obtained are then passed through the model we had trained in the first implementation, which predicts an output for the given frame. The output which occurs the maximum number of times is selected as the final output.
+4. **Result Phase** : The preprocessed images obtained are then passed through the model we had trained in the first implementation, which predicts an output for the given frame. The output which occurs the maximum number of times is selected as the final output.
 
 The respective sections are commented in the main.py code for reference.
 
